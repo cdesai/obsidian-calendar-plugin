@@ -12,10 +12,10 @@
     "test:watch": "yarn test -- --watch"
   },
   "dependencies": {
-    "obsidian": "obsidianmd/obsidian-api#master",
+    "obsidian": "0.15.9",
     "obsidian-calendar-ui": "0.3.12",
     "obsidian-daily-notes-interface": "0.9.0",
-    "svelte": "3.35.0",
+    "svelte": "4.2.19",
     "tslib": "2.1.0"
   },
   "devDependencies": {
